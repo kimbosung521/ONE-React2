@@ -1,6 +1,6 @@
 import Login from "./components/Login";
 import Register from "./components/Register";
-import {BrowserRouter,  Route, Routes,Link} from "react-router-dom"
+import  Route, Routes,Link} from "react-router-dom"
 import Main from "./components/Main";
 
 function App() {
